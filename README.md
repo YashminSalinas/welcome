@@ -93,8 +93,13 @@ Experience supporting business-critical applications in a 24/7 banking environme
 
 ## 📫 Connect With Me
 
+📲 Phone
++51980687528
+
 💼 LinkedIn  
 www.linkedin.com/in/ysalinasr
 
 📧 Email  
 ysalinas.net@gmail.com
+
+
