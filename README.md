@@ -1,117 +1,100 @@
-# 👋 Bienvenido a mi GitHub
+# 👋 Hi, I'm Yashmin
 
-Hola, soy **Yashmin** 👩‍💻  
-Estudiante de **Ingeniería de Sistemas** con interés en **análisis de datos, automatización de procesos** y **visualización para la toma de decisiones**.
+🎓 Systems Engineering Student | 📊 Data Analytics | 📈 Business Intelligence | ⚙️ Process Automation
 
-En este GitHub comparto proyectos académicos y personales donde aplico:
-- **Modelado de datos**
-- **Automatización**
-- **Gestión de indicadores (KPI / SLA)**
-- **Metodologías ágiles (Scrum y Kanban)**
+I am interested in transforming data into actionable insights through analysis, automation and visualization. My focus areas include SQL, Business Intelligence, Data Modeling, Reporting and Analytics.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠️ Tech Stack
 
-### 📊 Sistema de Tickets con SLA y KPI  
-**Google Sheets + Google Apps Script | Metodología Agile: Kanban**
-
-Sistema automatizado para seguimiento de tickets que:
-- Calcula tiempos de respuesta y cierre
-- Evalúa cumplimiento de SLA por nivel de urgencia
-- Genera KPIs automáticamente
-- Incluye dashboard dinámico
-- Implementa automatización mediante Apps Script (macros avanzadas)
-- Flujo de trabajo basado en **tablero Kanban** para tickets activos, en proceso y cerrados
-
-🔗 [Ver repositorio](https://github.com/tu-usuario/google-sheets-sla-automation)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![IBM SPSS Statistics](https://img.shields.io/badge/IBM-SPSS%20Statistics-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-### 📈 Dashboard de KPIs en Power BI  
-**Power BI · Modelado · Visualización | Agile: Scrum**
+## 🚀 Featured Projects
 
-Dashboard interactivo enfocado en:
-- Análisis de desempeño y seguimiento de KPIs
-- Visualización clara para toma de decisiones
-- Planificación de sprints y backlog de indicadores
-- Integración con **procesos de Scrum**: tareas, seguimiento y entrega incremental
+### 🇵🇪 PFIP – Peruvian Financial Intelligence Platform
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/powerbi-kpi-dashboard)
+Enterprise-scale analytics platform designed to consolidate, analyze and visualize financial and economic information.
 
----
+**Focus Areas**
+- Data Architecture
+- Data Modeling
+- Data Warehousing
+- KPI Management
+- Analytics
+- SQL, Python, Power BI & Microsoft Fabric
 
-### 🗄️ Análisis de Datos con SQL  
-**SQL · Consultas · Indicadores | Agile: Kanban**
-
-Prácticas de consulta y análisis donde:
-- Consulto bases de datos relacionales
-- Uso JOINs, agregaciones y subconsultas
-- Calculo métricas e indicadores de negocio
-- Flujo de trabajo en **tablero Kanban** para ejercicios y mejoras continuas
-
-🔗 [Ver repositorio](https://github.com/tu-usuario/sql-analytics)
+🔗 Repository: Coming Soon
 
 ---
 
-### 📈 Análisis de Datos con Python  
-**Python · Pandas · Excel | Agile: Scrum**
+### 📊 SLA & KPI Management Platform
 
-Análisis exploratorio de datos con enfoque ágil:
-- Limpieza y preparación
-- Cálculo de KPIs
-- Gestión de tareas y entregables en **sprints cortos**
-- Documentación incremental y control de versiones
+Automated ticket monitoring solution for operational performance and SLA compliance tracking.
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/analisis-datos-python)
+**Tech:** Google Sheets, Apps Script, KPI Design
+
+🔗 [View Repository](#)
 
 ---
 
-### 🌐 Fundamentos de Desarrollo Web  
-**HTML · CSS · JavaScript (básico) | Agile: Kanban**
+### 📈 Power BI Dashboard Portfolio
 
-Proyectos introductorios para:
-- Estructurar páginas con HTML
-- Estilizar interfaces con CSS
-- Agregar interactividad básica con JavaScript
-- Gestión de tareas mediante **tablero Kanban** para seguimiento de mejoras
+Interactive dashboards focused on business performance monitoring and decision support.
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/web-basics)
+**Tech:** Power BI, DAX, Data Modeling
+
+🔗 [View Repository](#)
 
 ---
 
-## 🛠️ Habilidades técnicas
+### 🗄️ SQL Analytics Portfolio
 
-### 📊 Datos y Analítica
-- **Excel / Google Sheets (Avanzado)**
-  - Fórmulas complejas, tablas dinámicas, dashboards
-  - Automatización con Apps Script
-- **Power BI**
-  - Modelado de datos, medidas, dashboards interactivos
-- **SQL**
-  - SELECT, JOINs, subconsultas, agregaciones y KPIs
-- **Python**
-  - Limpieza y análisis de datos con Pandas
+Collection of analytical SQL exercises and business-oriented case studies.
 
-### ⚙️ Automatización y Procesos
-- Google Apps Script
-- Reglas de negocio y validaciones
-- Triggers y alertas
-- Gestión de flujos con **Kanban y Scrum**
+**Tech:** SQL, Data Analysis, KPI Calculation
 
-### 🌐 Desarrollo Web
-- HTML, CSS, JavaScript (básico)
-
-### 📈 Gestión y Análisis
-- Definición y seguimiento de KPIs
-- Diseño y medición de SLA
-- Modelado de procesos
-- **Aplicación de metodologías ágiles**: Scrum y Kanban
+🔗 [View Repository](#)
 
 ---
 
-## 📫 Contacto
-- LinkedIn: *https://www.linkedin.com/in/ysalinasr*
-- Email: *ysalinas.net@gmail.com*
+### 🐍 Data Analysis with Python
 
-Gracias por visitar mi perfil ✨
+Projects focused on data cleaning, transformation and exploratory analysis.
+
+**Tech:** Python, Pandas, Excel
+
+🔗 [View Repository](#)
+
+---
+
+## 💼 Professional Background
+
+Experience supporting business-critical applications in a 24/7 banking environment, working with:
+
+- SQL queries
+- ETL monitoring
+- Log analysis
+- Incident investigation
+- Operational support
+- Process improvement
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn  
+www.linkedin.com/in/ysalinasr
+
+📧 Email  
+ysalinas.net@gmail.com
